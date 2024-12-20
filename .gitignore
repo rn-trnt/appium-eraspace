@@ -1,0 +1,81 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Build directory
+/target/
+
+# Log files
+*.log
+
+# OS-specific files
+Thumbs.db
+
+# Appium-related files
+*.apk
+*.ipa
+*.app
+
+# Gradle-specific files (if using Gradle)
+.gradle/
+/build/
+
+# IntelliJ IDEA project files (optional if you want to ignore them)
+/*.iml
+
+# Dependency directories (if using Maven or Gradle)
+/.m2/
+/.gradle/
+
+
+# Android Studio (if using Android Studio for development)
+/.idea
+/.gradle
+/local.properties
+
+# Eclipse IDE files (if switching between IDEs)
+/.project
+/.classpath
+/.settings/
+
+# Other temporary files
+*.swp
+*.swo
